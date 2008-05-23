@@ -1,0 +1,4 @@
+#
+# cron job for the serverstats package
+#
+* * * * *	stats	/usr/share/serverstats/update.php
